@@ -21,6 +21,10 @@ body {
   background-color: aqua;
 }
 
-.lorem1 {
+.main {
+  background-color: rgb(58, 32, 207);
+  height: 400px;
+}
+.main .lorem1 {
   background-color: #ff0000;
 }/*# sourceMappingURL=main.css.map */
